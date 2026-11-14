@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="koi/koi.gif" alt="Pixel koi swimming" width="220" />
+<!-- Crops extra vertical dead space while keeping the Koi crisp -->
+  <img src="koi/koi.gif" width="320" alt="GitHub Koi" />
 
 # Hi, I'm Amit Mohanty 👋
 
