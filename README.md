@@ -8,6 +8,7 @@
 
 [![Email](https://img.shields.io/badge/Email-amitmohantyxiv@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitmohantyxiv@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Amit--M--14-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amit-M-14)
+[![Followers](https://img.shields.io/github/followers/Amit-M-14?style=for-the-badge&logo=github&label=Followers&color=0D1117)](https://github.com/Amit-M-14?tab=followers)
 
 </div>
 
@@ -48,8 +49,10 @@
 
 <div align="center">
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amit-M-14&show_icons=true&theme=github_dark&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-M-14&layout=compact&theme=github_dark&hide_border=true)
+<img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="49%" />
+<img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="49%" />
+<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" width="49%" />
+<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per language" width="49%" />
 
 </div>
 
