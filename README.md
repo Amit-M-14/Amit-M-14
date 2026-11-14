@@ -40,7 +40,7 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**Axiom**](https://github.com/Amit-M-14/Axiom) | Automated financial compliance RAG engine | TypeScript |
-| [**Equinox**](https://github.com/Amit-M-14/Equinox) | <!-- one-line description --> | TypeScript |
+| [**Equinox**](https://github.com/Amit-M-14/Equinox) | A self correcting coding agent | TypeScript |
 | [**Research-Agent**](https://github.com/Amit-M-14/Research-Agent) | AI agent that automates research tasks | Python |
 | [**DL-01**](https://github.com/Amit-M-14/DL-01) | Pneumonia detection from chest X-rays with a ResNet50 computer vision model | PyTorch, Jupyter |
 | [**DL-02**](https://github.com/Amit-M-14/DL-02) | Leukemia classification from high-dimensional RNA-Seq data (7,000+ features) using PCA and a Random Forest ensemble | scikit-learn, Jupyter |
