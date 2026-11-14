@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="koi/koi.gif" width="256" alt="GitHub Koi" />
 
 <!--
 **Amit-M-14/Amit-M-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
