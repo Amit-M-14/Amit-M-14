@@ -16,10 +16,10 @@
 
 ## 🧭 About me
 
-- 🤖 Currently building: **<!-- your current project, e.g. an autonomous agent that ... -->**
-- 📚 Currently learning: **<!-- e.g. agent orchestration, containers, reinforcement learning -->**
-- 🌱 Looking to collaborate on: **<!-- e.g. open-source AI tooling, full-stack side projects -->**
-- 💬 Ask me about: **<!-- e.g. TypeScript, React, AI agents -->**
+- 🤖 Currently building: **PTCG RL<!-- your current project, e.g. an autonomous agent that ... -->**
+- 📚 Currently learning: **Reinforced Learning<!-- e.g. agent orchestration, containers, reinforcement learning -->**
+- 🌱 Looking to collaborate on: **Web Development, AI Agents, ML model and evrything cs related<!-- e.g. open-source AI tooling, full-stack side projects -->**
+- 💬 Ask me : **Do you want a job?<!-- e.g. TypeScript, React, AI agents -->**
 
 ## 🛠️ Tech stack
 
