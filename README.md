@@ -1,8 +1,8 @@
 <div align="center">
 <!-- Crops extra vertical dead space while keeping the Koi crisp -->
-  
+  <img src="koi/koi.gif" width="320" alt="GitHub Koi" />
 
-# Hi, I'm Amit Mohanty 👋  <img src="koi/koi.gif" width="320" alt="GitHub Koi" />
+# Hi, I'm Amit Mohanty 👋  
 
 **Building autonomous AI agents and full-stack apps with TypeScript and React.**
 
