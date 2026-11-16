@@ -1,6 +1,3 @@
-<div align="center">
-<!-- Crops extra vertical dead space while keeping the Koi crisp -->
-
 # Hi, I'm Amit Mohanty 👋  
 
 **Building autonomous AI agents and full-stack apps with TypeScript and React.**
@@ -44,6 +41,7 @@
 | [**DL-01**](https://github.com/Amit-M-14/DL-01) | Pneumonia detection from chest X-rays with a ResNet50 computer vision model | PyTorch, Jupyter |
 | [**DL-02**](https://github.com/Amit-M-14/DL-02) | Leukemia classification from high-dimensional RNA-Seq data (7,000+ features) using PCA and a Random Forest ensemble | scikit-learn, Jupyter |
 
+<div align="center">
   <img src="koi/koi.gif" width="320" alt="GitHub Koi" />
 
 ## 📊 GitHub stats
